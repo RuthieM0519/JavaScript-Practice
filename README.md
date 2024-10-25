@@ -1,1 +1,1 @@
-JavaScript Practice by Ruthie
+# JavaScript Practice by Ruthie
