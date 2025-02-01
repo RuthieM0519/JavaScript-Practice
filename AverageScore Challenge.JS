@@ -10,3 +10,4 @@ if (scoreDolphins > scoreKoalas) {
     console.log('Both win the trophy!')
 }
 
+//this is a test
